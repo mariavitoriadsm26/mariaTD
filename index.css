@@ -2,3 +2,12 @@ body {
     background-color: #13cdd4;
     color: rgb(180, 108, 251);
 }
+h2 {
+    color: #e841b9;
+}
+
+.texto_paragrafo {
+    color: #5731f2;
+    font-size: 30px;
+}
+
